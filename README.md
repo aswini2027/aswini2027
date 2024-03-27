@@ -1,4 +1,3 @@
-`#0969DA`
 # **WELCOME!**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/52/64/e0/5264e0aa5dcd1b9bcc2755bcfcc54432.jpg">
