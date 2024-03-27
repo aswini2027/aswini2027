@@ -1,6 +1,8 @@
 `#0969DA`
 # **WELCOME!**
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/52/64/e0/5264e0aa5dcd1b9bcc2755bcfcc54432.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://banner2.cleanpng.com/20181203/twi/kisspng-clip-art-la-crescent-public-library-superhero-trai-childrens-programs-ampquot-the-killingworth-lib-5c05c1d51e9257.2751252315438811731252.jpg">
   <img src="https://i.pinimg.com/originals/52/64/e0/5264e0aa5dcd1b9bcc2755bcfcc54432.jpg" alt="theme of every hero hero has a story" height="200">
 </picture>
 
