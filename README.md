@@ -26,6 +26,8 @@
     - Be technically strong.
     - Identify and implement ways to improve the work efficiency.
     - Take initiatives to grasp interest of girls, women in Tech.
+> [!NOTE]
+> Actively exploring interesting job opportunities to start a new career adventure. 
 
 #Reach @email-address[^1].
 [^1]:aswininr1820@gmail.com
