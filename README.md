@@ -1,16 +1,29 @@
-### Hi there 👋
+`#0969DA`
+# **WELCOME!**
+<picture>
+  <img src="https://i.pinimg.com/originals/52/64/e0/5264e0aa5dcd1b9bcc2755bcfcc54432.jpg" alt="theme of every hero hero has a story" height="200">
+</picture>
 
-<!--
-**aswini2027/aswini2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _Let's dive into my story in brief_
 
-Here are some ideas to get you started:
+### Personal Interests:
+- Inspired by life and service of Dr.A.P.J. Abdul Kalam.
+- Passionate about Singing, Music 👩‍🎤 🎵...
+- > Love to:
+    -  Teach Kids 👩‍🏫.
+    -  Learn, Explore and Share various tools, techniques, technology. Contribute to the world🌐🗺️ through my skills, knowledge, work.
+    -  Research and develop farming 👩‍🌾.
+    -  Growing Together, creating positive environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Interests:
+- Served as a:
+  - Data Analyst in Healthcare Domain.
+  - Quality Assurance Engineer in Banking Domain.
+  - QA Automation Engineer in Payments Domain.
+- > Love to:
+    - Learn and stay updated with latest industry knowledge.
+    - Be technically strong.
+    - Identify and implement ways to improve the work efficiency.
+    - Take initiatives to grasp interest of girls, women in Tech.
+
+
