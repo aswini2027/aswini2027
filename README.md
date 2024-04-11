@@ -29,7 +29,6 @@
 > [!NOTE]
 > Actively exploring diverse job opportunities to start a new career adventure. 
 
-#Reach @email-address[^1].
+#Reach @email-address[^1], @LinkedIn[^2].
 [^1]:aswininr1820@gmail.com
-
-[^1]: 📧 aswininr1820@gmail.com
+[^2]:https://www.linkedin.com/in/aswini-narayanaswamy-1aa50b242
